@@ -1,8 +1,34 @@
-div 
-{
+
+body {
+    background:#FAFAFA;
+}
+
+.box {
     border-radius:20px;
+    float:left;
+    margin:30px;
     width:100px;
     height:100px;
-    border:4px solid grey;
-    background:darkblue;
+    border:1px solid grey;
+}
+
+/* E69C1F */
+.yellow {
+    background:rgba(230,156,31,1);
+}
+/* A9BB33 */
+.green {
+    background:rgba(169,287,51,1);
+}
+/* 061362 */
+.blue {
+    background: rgba(6,19,98,1);
+}
+/* 229Eb6 */
+.turkis {
+    background: rgba(34,158,182,1);
+}
+/* CB3415 */
+.red {
+    background: rgba(203,52,21,1);
 }
